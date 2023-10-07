@@ -11,6 +11,7 @@ protocols = [
 	'gamescope-swapchain',
 	'xdg-shell',
 	'presentation-time',
+	'fractional-scale-v1',
 ]
 
 protocols_client_src = []
